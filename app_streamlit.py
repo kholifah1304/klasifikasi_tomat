@@ -32,13 +32,7 @@ st.caption("Dibuat dengan 🍅 oleh **Lilis Nur Kholifah**")
 
 # INTRUKSI
 # buat file "requirements.txt" isinya:
-pandas
-matplotlib
-seaborn
-scikit-learn
-joblib
-streamlit
-
 # upload ke github dengan nama repo : klasifikasi_tomat
 
 # deploy ke streamlit cloud dengan nama : lilis_klasifikasi-tomat
+
