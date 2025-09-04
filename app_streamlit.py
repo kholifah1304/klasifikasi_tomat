@@ -39,5 +39,6 @@ scikit-learn
 joblib
 streamlit
 
-upload ke github dengan nama repo : klasifikasi_tomat
-deploy ke streamlit cloud dengan nama : lilis_klasifikasi-tomat
+# upload ke github dengan nama repo : klasifikasi_tomat
+
+# deploy ke streamlit cloud dengan nama : lilis_klasifikasi-tomat
